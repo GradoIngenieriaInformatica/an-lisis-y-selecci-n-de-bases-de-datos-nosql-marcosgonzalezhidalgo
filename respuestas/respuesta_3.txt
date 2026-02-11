@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+RELACIONAL | Registro histórico estructurado con integridad y análisis temporal de transacciones

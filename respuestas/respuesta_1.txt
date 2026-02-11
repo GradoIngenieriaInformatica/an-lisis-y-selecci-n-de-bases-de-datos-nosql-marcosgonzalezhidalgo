@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+GRAFOS | Relaciones bidireccionales y análisis de grados de separación entre usuarios
